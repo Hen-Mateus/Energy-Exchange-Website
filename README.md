@@ -2,7 +2,7 @@
 
 This project was developed within the scope of the course "Integrated Project 3". This web application embraces a comprehensive approach, encompassing frontend, backend, and a database, built using Node.js, Express, React, Bootstrap, and PostgreSQL. The focus of this project is to facilitate the trading of surplus energy and provide detailed information about the buying and selling process of energy.
 
-## Functionalities Overview:
+## Features:
 
 • Informative Landing Page: Introduction to the concept of surplus energy, explaining the steps for buying or selling energy, with login and registration buttons.
 
