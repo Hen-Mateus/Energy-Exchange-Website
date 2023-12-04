@@ -16,7 +16,7 @@ This project was developed within the scope of the course "Integrated Project 3"
 
 • **Data Management:** Adjust account settings for each type of user.
 
-## Technological Utilization:
+## Technology Stack:
 
 • **Frontend:** React.js, Bootstrap
 
